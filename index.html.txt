@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>رسالة حب ❤️</title>
+<style>
+body {
+background: #fff0f5;
+font-family: Arial;
+text-align: center;
+padding: 30px;
+}
+.box {
+background: white;
+padding: 25px;
+border-radius: 20px;
+max-width: 600px;
+margin: auto;
+box-shadow: 0 0 15px pink;
+}
+h1 {
+color: #d6336c;
+}
+p {
+font-size: 20px;
+color: #444;
+line-height: 1.8;
+}
+</style>
+</head>
+
+<body>
+
+<div class="box">
+<h1>❤️ Reya ❤️</h1>
+
+<p>
+من أول يوم دخلتي حياتي  
+والدنيا كلها اتغيرت  
+وجودك أمان  
+وحبك نعمة 💕
+</p>
+
+<p>
+بحبك  
+وعد مش كلام 🌹
+</p>
+
+<p>
+— عبد الرحمن
+</p>
+</div>
+
+</body>
+</html>
